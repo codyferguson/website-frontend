@@ -29,12 +29,14 @@ class Resume extends Component {
         );
       });
       var techs = this.props.data.techs.map(function (techs) {
-        var className = "bar-expand " + techs.name.toLowerCase();
+        var techImage = 'images/tech/' + techs.image;
+        // var className = "bar-expand " + techs.name.toLowerCase();
         return (
-          <li key={techs.name}>
-            <span style={{ width: techs.level }} className={className}></span>
-            <em>{techs.name}</em>
-          </li>
+          <div key={techs.name} className="columns feature-item">
+            <img className="tech" alt={techs.name} src={techImage} />
+            <h5>{techs.name}</h5>
+            <p>{techs.description}</p>
+          </div>
         );
       });
     }
@@ -72,13 +74,15 @@ class Resume extends Component {
             </h1>
           </div>
 
-          <div className="nine columns main-col">
-            <p>{skillmessage}</p>
-
-            <div className="bars">
-              <ul className="techs">{techs}</ul>
+          <div>
+            <div className="nine columns main-col">
+              <p classname="lead center">{skillmessage}</p>
             </div>
+            <ul className="bgrid-quarters s-bgrid-thirds cf">
+              {techs}
+            </ul>
           </div>
+          
         </div>
       </section>
     );

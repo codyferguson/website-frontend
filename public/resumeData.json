@@ -2,19 +2,18 @@
   "main": {
     "name": "Cody Ferguson",
     "occupation": "Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "I currently work at Kohl's on the Merchandise Engineering team building internal web applications.",
     "image": "me_vacation.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "Growing up, I always wanted to be an Engineer. Combined with my interest in computers, I pursued becoming a Software Engineer at The Univeristy of Wisconsin - Plateville. I currenly work on web based applications at Kohl's. I enjoy experimenting with new technology and hobby game development while I am not working on DIY projects for my home.",
+    "contactmessage": "Please reach out if you want to connect!",
     "email": "cody.h.ferguson@gmail.com",
     "phone": "(608)-290-3830",
     "address": {
-      "street": "EDIT",
       "city": "Milwaukee",
       "state": "Wisconsin"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.codyferguson.net",
+    "resumedownload": "http://www.codyferguson.net",
     "social": [
       {
         "name": "linkedin",
@@ -29,57 +28,84 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I love to learn new tech stacks, and experirement with different areas of software development. Here are some of the technologies I am most familiar with.",
     "education": [
       {
         "school": "University of Wisconsin - Platteville",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree": "Bachelors of Science Software Engineering",
+        "graduated": "May 2017",
+        "description": "A focus on hands on learning with projects using Java, C#, C++, and C. Alongside coding, software engineering classes demonstrated the steps of the software development life cycle."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Kohls",
+        "title": "Software Engineer",
+        "years": "March 2019 - Present",
+        "description": "I took on more responsiblity with working on our Planning tool with the promotion. "
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Kohls",
+        "title": "Associate Software Engineer",
+        "years": "March 2018 - February 2019",
+        "description": "Implemented various improvements to a planning web application based on user requests. "
+      },
+      {
+        "company": "Kohls",
+        "title": "Associate Software Engineer - Great Start",
+        "years": "March 2017 - February 2017",
+        "description": "I started at Kohl's on a rotational program where I first helped the Omni-channel Fulfilment team in developing a tool to check the discrepancies between two internal inventory systems. Then, I assisted the Merchandise Service Delivery team by developing applications that improved my co-workers ability to support Merchandising applications. I was quickly exposed to enterprise projects, and learned a great amount during the rotation"
+      }
+      ,
+      {
+        "company": "Kohls",
+        "title": "Software Engineer Intern",
+        "years": "Summer 2016",
+        "description": "I Designed and implemented improvements to ServiceNow pages. Also, I participated in a Shark Tank like intern presentation on an innovative idea presented to Kohl's upper management. This was great exposure to working with a diverse team to drive innovation, and present to the CTO."
+      }
+      ,
+      {
+        "company": "LasX",
+        "title": "Software Engineer Intern",
+        "years": "Summer 2015",
+        "description": "I developed automated tests for LightGuide, an in-house software, using Telerik's Test Studio. Created manual tests for LightGuide running on a research and develoment laser. While developing the manual tests, and trying to find good designs for test cases, I uncovered a hard to find edge case which helped the senior developers find the underlying issue."
       }
     ],
     "techs": [
       {
         "name": "Java",
-        "level": "70%"
+        "image": "java.jpg",
+        "descrition": "This is a test to see a longer description"
       },
       {
         "name": "C#",
-        "level": "55%"
+        "image": "cSharp.png",
+        "description": "Testy mic test"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "image": "react.jpg",
+        "description": "blah bla"
       },
       {
         "name": "Spring",
-        "level": "90%"
+        "image": "spring.png",
+        "description": "john doe"
       },
       {
         "name": "Python",
-        "level": "40%"
+        "image": "python.png",
+        "description": "foo bar"
       },
       {
         "name": "Git",
-        "level": "50%"
+        "image": "git.jpg",
+        "description": "glug"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "image": "mongo.jpg",
+        "description": "blug"
       }
     ]
   },
