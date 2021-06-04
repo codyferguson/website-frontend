@@ -4,8 +4,7 @@
     "occupation": "Software Engineer",
     "description": "I currently work at Kohl's on the Merchandise Engineering team building internal web applications.",
     "image": "me_vacation.jpg",
-    "bio": "Growing up, I always wanted to be an Engineer. Combined with my interest in computers, I pursued becoming a Software Engineer at The Univeristy of Wisconsin - Plateville. I currenly work on web based applications at Kohl's. I enjoy experimenting with new technology and hobby game development while I am not working on DIY projects for my home.",
-    "contactmessage": "Please reach out if you want to connect!",
+    "bio": "Growing up, I always wanted to be an Engineer. Combined with my interest in computers, I pursued becoming a Software Engineer at The Univeristy of Wisconsin - Platteville. I currently work on web based applications at Kohl's. I enjoy experimenting with new technology and hobby game development while I am not working on DIY projects for my home.",
     "email": "cody.h.ferguson@gmail.com",
     "phone": "(608)-290-3830",
     "address": {
@@ -106,52 +105,6 @@
         "name": "MongoDB",
         "image": "mongo.jpg",
         "description": "blug"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }

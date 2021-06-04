@@ -138,7 +138,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 .opaque { background-color: #333; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; }
+#nav-wrap > a.mobile-btn { display: none; background: #11ABB0;}
 
 ul#nav {
    min-height: 48px;
@@ -574,7 +574,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
-
+/* 
 #contact {
    background: #191919;
    padding-top: 96px;
@@ -614,11 +614,11 @@ call-to-action .button {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
 }
-#contact .header-col { padding-top: 6px; }
+#contact .header-col { padding-top: 6px; } */
 
 
 /* contact form */
-#contact form { margin-bottom: 30px; }
+/* #contact form { margin-bottom: 30px; }
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
@@ -665,8 +665,8 @@ call-to-action .button {
 #contact span.required {
 	color: #11ABB0;
 	font-size: 13px;
-}
-#message-warning, #message-success {
+} */
+/* #message-warning, #message-success {
    display: none;
 	background: #0F0F0F;
 	padding: 24px 24px;
@@ -686,27 +686,7 @@ call-to-action .button {
    position: relative;
    left: 18px;
    top: 17px;
-}
-
-
-/* Twitter Feed */
-#twitter {
-   margin-top: 12px;
-   padding: 0;
-}
-#twitter li {
-   margin: 6px 0px 12px 0;
-   line-height: 30px;
-}
-#twitter li span {
-   display: block;
-}
-#twitter li b a {
-   font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
-   border: none;
-}
-
+} */
 
 /* ------------------------------------------------------------------ */
 /* i. Footer
