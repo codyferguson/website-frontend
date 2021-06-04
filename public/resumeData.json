@@ -41,19 +41,19 @@
       {
         "company": "Kohls",
         "title": "Software Engineer",
-        "years": "March 2019 - Present",
-        "description": "I took on more responsiblity with working on our Planning tool with the promotion. "
+        "years": "April 2020 - Present",
+        "description": ""
       },
       {
         "company": "Kohls",
         "title": "Associate Software Engineer",
-        "years": "March 2018 - February 2019",
-        "description": "Implemented various improvements to a planning web application based on user requests. "
+        "years": "January 2018 - April 2020",
+        "description": "After the Great Start rotational program, I was assigned to the Merchandising Service Delivery team where I developed applications to help my co workers support Merchandising applications. Then I moved to the Merchandising Engineering team where I began working on an internal planning software. I started by implementing improvements to buy worksheets functionality. I was then moved to the program planning where we designed new functionality around planning many programs under one planner which greatly increased their productivity. I took this time to refactor code from the Angular components to reuse for bulk actions which decoupled the logic into a service file. I also lead the conversion of our batch job orchestration from running on a mainframe to using Airflow which aligned with Kohl's move off the mainframe."
       },
       {
         "company": "Kohls",
         "title": "Associate Software Engineer - Great Start",
-        "years": "March 2017 - February 2017",
+        "years": "June 2017 - January 2018",
         "description": "I started at Kohl's on a rotational program where I first helped the Omni-channel Fulfilment team in developing a tool to check the discrepancies between two internal inventory systems. Then, I assisted the Merchandise Service Delivery team by developing applications that improved my co-workers ability to support Merchandising applications. I was quickly exposed to enterprise projects, and learned a great amount during the rotation"
       }
       ,
