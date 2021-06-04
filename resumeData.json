@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Cody Ferguson",
+    "occupation": "Software Engineer",
+    "description": "I currently work at Kohl's on the Merchandise Engineering team building internal web applications.",
+    "image": "me_vacation.jpg",
+    "bio": "Growing up, I always wanted to be an Engineer. Combined with my interest in computers, I pursued becoming a Software Engineer at The Univeristy of Wisconsin - Plateville. I currenly work on web based applications at Kohl's. I enjoy experimenting with new technology and hobby game development while I am not working on DIY projects for my home.",
+    "contactmessage": "Please reach out if you want to connect!",
+    "email": "cody.h.ferguson@gmail.com",
+    "phone": "(608)-290-3830",
+    "address": {
+      "city": "Milwaukee",
+      "state": "Wisconsin"
+    },
+    "website": "http://www.codyferguson.net",
+    "resumedownload": "http://www.codyferguson.net",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cody-ferguson-8aa18b109/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/codyferguson",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I love to learn new tech stacks, and experirement with different areas of software development. Here are some of the technologies I am most familiar with.",
+    "education": [
+      {
+        "school": "University of Wisconsin - Platteville",
+        "degree": "Bachelors of Science Software Engineering",
+        "graduated": "May 2017",
+        "description": "A focus on hands on learning with projects using Java, C#, C++, and C. Alongside coding, software engineering classes demonstrated the steps of the software development life cycle."
+      }
+    ],
+    "work": [
+      {
+        "company": "Kohls",
+        "title": "Software Engineer",
+        "years": "March 2019 - Present",
+        "description": "I took on more responsiblity with working on our Planning tool with the promotion. "
+      },
+      {
+        "company": "Kohls",
+        "title": "Associate Software Engineer",
+        "years": "March 2018 - February 2019",
+        "description": "Implemented various improvements to a planning web application based on user requests. "
+      },
+      {
+        "company": "Kohls",
+        "title": "Associate Software Engineer - Great Start",
+        "years": "March 2017 - February 2017",
+        "description": "I started at Kohl's on a rotational program where I first helped the Omni-channel Fulfilment team in developing a tool to check the discrepancies between two internal inventory systems. Then, I assisted the Merchandise Service Delivery team by developing applications that improved my co-workers ability to support Merchandising applications. I was quickly exposed to enterprise projects, and learned a great amount during the rotation"
+      }
+      ,
+      {
+        "company": "Kohls",
+        "title": "Software Engineer Intern",
+        "years": "Summer 2016",
+        "description": "I Designed and implemented improvements to ServiceNow pages. Also, I participated in a Shark Tank like intern presentation on an innovative idea presented to Kohl's upper management. This was great exposure to working with a diverse team to drive innovation, and present to the CTO."
+      }
+      ,
+      {
+        "company": "LasX",
+        "title": "Software Engineer Intern",
+        "years": "Summer 2015",
+        "description": "I developed automated tests for LightGuide, an in-house software, using Telerik's Test Studio. Created manual tests for LightGuide running on a research and develoment laser. While developing the manual tests, and trying to find good designs for test cases, I uncovered a hard to find edge case which helped the senior developers find the underlying issue."
+      }
+    ],
+    "techs": [
+      {
+        "name": "Java",
+        "image": "java.jpg",
+        "descrition": "This is a test to see a longer description"
+      },
+      {
+        "name": "C#",
+        "image": "cSharp.png",
+        "description": "Testy mic test"
+      },
+      {
+        "name": "ReactJs",
+        "image": "react.jpg",
+        "description": "blah bla"
+      },
+      {
+        "name": "Spring",
+        "image": "spring.png",
+        "description": "john doe"
+      },
+      {
+        "name": "Python",
+        "image": "python.png",
+        "description": "foo bar"
+      },
+      {
+        "name": "Git",
+        "image": "git.jpg",
+        "description": "glug"
+      },
+      {
+        "name": "MongoDB",
+        "image": "mongo.jpg",
+        "description": "blug"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
