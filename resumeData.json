@@ -12,7 +12,7 @@
       "state": "Wisconsin"
     },
     "website": "http://www.codyferguson.net",
-    "resumedownload": "http://www.codyferguson.net",
+    "resumedownload": "CodyFergusonResume2021.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -77,19 +77,19 @@
         "descrition": "This is a test to see a longer description"
       },
       {
-        "name": "C#",
-        "image": "cSharp.png",
-        "description": "Testy mic test"
-      },
-      {
-        "name": "ReactJs",
-        "image": "react.jpg",
-        "description": "blah bla"
-      },
-      {
         "name": "Spring",
         "image": "spring.png",
-        "description": "john doe"
+        "description": "add spring desc"
+      },
+      {
+        "name": "MongoDB",
+        "image": "mongo.jpg",
+        "description": "mongodb stuff"
+      },
+      {
+        "name": "C#",
+        "image": "cSharp.png",
+        "description": "c# desc"
       },
       {
         "name": "Python",
@@ -97,14 +97,9 @@
         "description": "foo bar"
       },
       {
-        "name": "Git",
-        "image": "git.jpg",
-        "description": "glug"
-      },
-      {
-        "name": "MongoDB",
-        "image": "mongo.jpg",
-        "description": "blug"
+        "name": "ReactJs",
+        "image": "react.jpg",
+        "description": "just getting into react"
       }
     ]
   }
