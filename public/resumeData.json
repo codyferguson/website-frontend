@@ -41,7 +41,7 @@
         "company": "Kohls",
         "title": "Software Engineer",
         "years": "April 2020 - Present",
-        "description": ""
+        "description": "I continued worked on the Planning tool where we developed functionality to reference 2 year old data rather than the built in last year data so that Planners can avoid referencing low numbers from 2020. Also, after working with the business analyst on user's needs for a corporate level of reporting on programs, we determined that instead of developing seperate functionality, our current rollup component could be extended. This set us up perfectly for our transition from Github and Jenkins to Gitlab and Gitlab's auto DevOps. I helped convert our current applications to work with Gitlab's auto DevOps features which created many hurdles that lead to an opportunity to expand my knowledge of DevOps in practice."
       },
       {
         "company": "Kohls",
@@ -74,32 +74,32 @@
       {
         "name": "Java",
         "image": "java.jpg",
-        "descrition": "This is a test to see a longer description"
+        "description": "I have used Java from my time at Platteville to most of my projects at Kohl's. I still have plenty to learn, but I am most comfortable using Java particularly with Spring and Maven to create a back end API. "
       },
       {
         "name": "Spring",
         "image": "spring.png",
-        "description": "add spring desc"
+        "description": "Most of my projects at Kohl's have been using Java and Spring Framework. I have worked on Spring Batch and Spring Rest. I usually look for tasks at work on the backend to expand my knowledge of the Spring Framework."
       },
       {
         "name": "MongoDB",
         "image": "mongo.jpg",
-        "description": "mongodb stuff"
+        "description": "On all my projects that I have worked on with at Kohl's, we have used MongoDB. I have developed queries to aggregate different collections to get KPIs on application usage. I would like to learn more about indexing and how to use it to speed up common queries."
       },
       {
         "name": "C#",
         "image": "cSharp.png",
-        "description": "c# desc"
+        "description": "I have worked with C# as a scripting language when creating games using Unity. From there, I have been using C# to practice coding problems with the plan to expand my knowledge further by doing a todo application using C# and the .NET framewor for the backend."
       },
       {
         "name": "Python",
         "image": "python.png",
-        "description": "foo bar"
+        "description": "I have used Python for many small projects like querying MongoDB to retrieve KPIs in csv format for our business analyst to better understand what users are actually doing in the application. Also, I worekd with Python when writing DAGs in Airflow which I used to schedule an API call to Spring Batch jobs."
       },
       {
-        "name": "ReactJs",
+        "name": "React",
         "image": "react.jpg",
-        "description": "just getting into react"
+        "description": "For now, my experience with react has been smaller projects in my free time. I hope to get more experience with React by doing these small projects, like this website."
       }
     ]
   }
