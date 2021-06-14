@@ -60,7 +60,7 @@
         "company": "Kohls",
         "title": "Software Engineer Intern",
         "years": "Summer 2016",
-        "description": "I Designed and implemented improvements to ServiceNow pages. Also, I participated in a Shark Tank like intern presentation on an innovative idea presented to Kohl's upper management. This was great exposure to working with a diverse team to drive innovation, and present to the CTO."
+        "description": "I designed and implemented improvements to ServiceNow pages. Also, I participated in a Shark Tank like intern presentation on an innovative idea presented to Kohl's upper management. This was great exposure to working with a diverse team to drive innovation, and present to the CTO."
       }
       ,
       {
@@ -89,7 +89,7 @@
       {
         "name": "C#",
         "image": "cSharp.png",
-        "description": "I have worked with C# as a scripting language when creating games using Unity. From there, I have been using C# to practice coding problems with the plan to expand my knowledge further by doing a todo application using C# and the .NET framewor for the backend."
+        "description": "I have worked with C# as a scripting language when creating games using Unity. From there, I have been using C# to practice coding problems with the plan to expand my knowledge further by doing a todo application using C# and the .NET framework for the backend."
       },
       {
         "name": "Python",
