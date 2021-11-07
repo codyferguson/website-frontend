@@ -8,9 +8,12 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import reportWebVitals from './reportWebVitals';
+import ReactGA from 'react-ga';
 
+const TRACKING_ID = "UA-12341234-1"; // YOUR_OWN_TRACKING_ID
+  ReactGA.initialize(TRACKING_ID);
+  
 class App extends Component {
-
   constructor(props){
     super(props);
     this.state = {
