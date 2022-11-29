@@ -2,17 +2,17 @@
   "main": {
     "name": "Cody Ferguson",
     "occupation": "Software Engineer",
-    "description": "I currently work at DocuSign on the Incubations team working on enhancing DocuSign's Contract Lifecycle Managment product.",
+    "description": "I am currently at Alaska Airline working on the Atlas Payment System.",
     "image": "me_vacation.jpg",
-    "bio": "Growing up, I always wanted to be an Engineer. Combined with my interest in computers, I pursued becoming a Software Engineer at The Univeristy of Wisconsin - Platteville. I currently work on web based applications at Kohl's. I enjoy experimenting with new technology and hobby game development while I am not working on DIY projects for my home.",
+    "bio": "Growing up, I always wanted to be an Engineer. Combined with my interest in computers, I pursued becoming a Software Engineer at The University of Wisconsin - Platteville. I enjoy experimenting with new technology and hobby game development while I am not working on DIY projects for my home.",
     "email": "cody.h.ferguson@gmail.com",
-    "phone": "(608)-290-3830",
+    "phone": "(608) 290-3830",
     "address": {
-      "city": "Milwaukee",
+      "city": "Brookfield",
       "state": "Wisconsin"
     },
     "website": "http://www.codyferguson.net",
-    "resumedownload": "2021-Cody-Resume.pdf",
+    "resumedownload": "Cody Ferguson Resume 2022.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -27,7 +27,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "I love to learn new tech stacks, and experirement with different areas of software development. Here are some of the technologies I am most familiar with.",
+    "skillmessage": "I love to learn new tech stacks, and experiment with different areas of software development. Here are some of the technologies I am most familiar with.",
     "education": [
       {
         "school": "University of Wisconsin - Platteville",
@@ -37,6 +37,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Alaska Airlines",
+        "title": "Software Engineer",
+        "years": "November 2022 - Present",
+        "description": "I am working on the Atlas Payment Platform. I am just getting started, so more updates to come!"
+      },
+      {
+        "company": "DocuSign",
+        "title": "Software Engineer",
+        "years": "October 2021 - October 2022",
+        "description": "I worked on the Incubations team focused on DocuSign's CLM product. I built a difference checking tool for Workflows, updated date component functionality in the document generation service, and working with Apex classes in Salesforce to integrate with DocuSign APIs."
+      },
       {
         "company": "Kohls",
         "title": "Software Engineer",
@@ -89,12 +101,12 @@
       {
         "name": "C#",
         "image": "cSharp.png",
-        "description": "I have worked with C# as a scripting language when creating games using Unity. From there, I have been using C# to practice coding problems with the plan to expand my knowledge further by doing a todo application using C# and the .NET framework for the backend."
+        "description": "I worked with C# and .Net while at DocuSign working on APIs for CLM. I have worked with C# as a scripting language when creating games using Unity."
       },
       {
         "name": "Python",
         "image": "python.png",
-        "description": "I have used Python for many small projects like querying MongoDB to retrieve KPIs in csv format for our business analyst to better understand what users are actually doing in the application. Also, I worekd with Python when writing DAGs in Airflow which I used to schedule an API call to Spring Batch jobs."
+        "description": "I have used Python for many small projects like querying MongoDB to retrieve KPIs in csv format for our business analyst to better understand what users are actually doing in the application. Also, I worked with Python when writing DAGs in Airflow which I used to schedule an API call to Spring Batch jobs."
       },
       {
         "name": "React",
