@@ -4,13 +4,13 @@ export default [
         title: 'Software Engineer',
         company: 'Alaska Airlines',
         duration: '1 year',
-        details: 'TODO'
+        details: 'asdfsjdlfjaldsjlf kajldsfjlkajdsflknadklnflkdnsflkandflkandlkfnalkdfnlkanfnaldnfklandflkankdlfnlndasd'
     },
     {
         year: 'Oct 2022',
         title: 'Software Engineer',
         company: 'DocuSign',
         duration: '1 year',
-        details: 'TODO'
+        details: 'TODasdfasdfasdfadsfasdfdasffgfhfdjghjfghjkfghjkfdghkfghkfghkfhgkfghkdhgn  sfgs fgsfdgsf gf  sf fgs gsf gsf gsf fg O'
     },
 ]
