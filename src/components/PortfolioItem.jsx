@@ -1,12 +1,5 @@
 import React from 'react';
-// import PropTypes from 'prop-types';
 
-// PortfolioItem.PropTypes = {
-//     title: PropTypes.string,
-//     imgUrl: PropTypes.node,
-//     stack: PropTypes.string,
-//     link: PropTypes.string
-// }
 
 function PortfolioItem({ title, imgUrl, stack, link }) {
    return (
