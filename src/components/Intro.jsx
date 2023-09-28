@@ -4,21 +4,20 @@ function Intro() {
   return (
     // Check out Tailwindcss for help on these properties
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-      <h1 className="text-4x1 md:text-7x1 mb-1 md:mb-3 font-bold">
+      <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
         Cody Ferguson
       </h1>
-      <p className="text-base md:text-x1 md-3 font-medium">
-        Software Engineer and Hobby Game Developer
+      <p className="text-base md:text-xl mb-3 font-medium">
+        Software Engineer, Father, and Hobby Game Developer
       </p>
-      <p className="text-sm max-w-x1 mb-6 font-bold">
+      <p className="text-sm max-w-xl mb-6 font-bold">
         I&apos;m a Brookfield based Software Engineer. I am currently at Alaska
-        Airline working on the Atlas Payment System.
-        <br /> <br />
-        Growing up, I always wanted to be an Engineer. Combined with my interest
-        in computers, I pursued becoming a Software Engineer at The University
-        of Wisconsin - Platteville. I enjoy experimenting with new technology
-        and hobby game development while I am not working on DIY projects for my
-        home.
+        Airline working on the Atlas Payment System which enables internal
+        clients to provide the future of payments at Alaska Airlines. I enjoy
+        experimenting with new technology and game development while I am not
+        spending time with my family. Some books I have read recently that I
+        would recommend to other engineers are: The Pragmatic Programmer and
+        Grokking Algorithms.
       </p>
     </div>
   );

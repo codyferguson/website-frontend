@@ -10,5 +10,11 @@ export default [
         imgUrl: '/assets/websitePlaceholder.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'this site'
+    },
+    {
+        title: 'Pong - ',
+        imgUrl: '/assets/websitePlaceholder.png',
+        stack: ['Unity', 'C#'],
+        link: ''
     }
 ]
