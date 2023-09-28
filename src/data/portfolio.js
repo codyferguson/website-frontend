@@ -13,7 +13,7 @@ export default [
     },
     {
         title: 'Pong - ',
-        imgUrl: '/assets/websitePlaceholder.png',
+        imgUrl: '/assets/PongGame.png',
         stack: ['Unity', 'C#'],
         link: ''
     }
