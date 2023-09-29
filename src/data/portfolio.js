@@ -12,9 +12,9 @@ export default [
         link: 'this site'
     },
     {
-        title: 'Pong - ',
+        title: 'Pong - Twenty Game Challenge',
         imgUrl: '/assets/PongGame.png',
         stack: ['Unity', 'C#'],
-        link: ''
+        link: 'https://github.com/codyferguson/TwentyGameChallenge' // TODO: Add link to github repo
     }
 ]

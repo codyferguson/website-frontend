@@ -31,7 +31,7 @@ function Contact() {
           />
           <button
             type="button"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-grey-500 to-purple-500 drop-shadow-md hover:stroke-white"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-gray-800 to-purple-900 drop-shadow-md hover:stroke-white"
           >
             Contact me
           </button>
